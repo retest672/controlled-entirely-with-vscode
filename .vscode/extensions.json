@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        // Github extensions (optional)
+        // "github.codespaces",
+        // "ms-vscode.vscode-github-issue-notebooks",
+        // "github.remotehub",
+        // "github.github-vscode-theme",
+        "tyriar.luna-paint",
+        "esbenp.prettier-vscode"
+    ],  
+}

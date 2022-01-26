@@ -1,1 +1,5 @@
-
+{
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.bracketPairColorization.enabled": true
+}
